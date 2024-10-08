@@ -1,5 +1,5 @@
 package Mystack;
-
+            // chuong trinh dem cay
 class TNode{
     int data;
 TNode left;
