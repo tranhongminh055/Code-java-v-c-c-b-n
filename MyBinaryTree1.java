@@ -1,5 +1,5 @@
 package minhtran;
-
+                //dem phan tu cay
 class TNode{
     int data;
     TNode left, right;
