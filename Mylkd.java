@@ -1,6 +1,6 @@
 package Mystack;
 import java.util.Scanner;
-
+				danh sach lien ket 
 import org.w3c.dom.Node;
 
 @SuppressWarnings("unused")
