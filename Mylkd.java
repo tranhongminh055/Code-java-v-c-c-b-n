@@ -1,6 +1,6 @@
 package Mystack;
 import java.util.Scanner;
-				danh sach lien ket 
+				// danh sach lien ket(ket hop voi class MyStack MS roi moi dua class nay vao sau)
 import org.w3c.dom.Node;
 
 @SuppressWarnings("unused")
