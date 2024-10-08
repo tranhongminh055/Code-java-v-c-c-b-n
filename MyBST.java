@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+        //MyBinareeStructureTree
 class TNode{
     int data;
     TNode left, right;
