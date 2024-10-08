@@ -2,7 +2,7 @@ package minhtran;
 
 import java.util.Scanner;
 import java.util.Random;
-
+		//Cac kieu mang trong Mang Java
 @SuppressWarnings("unused")
 public class FC2_L2 {
 	int[]A;
