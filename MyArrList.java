@@ -1,5 +1,5 @@
 package minhtran;
-
+						// Bai Kieu Mang
 import java.util.Scanner;
 
 public class MyArrList {
